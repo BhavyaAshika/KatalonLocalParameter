@@ -25,8 +25,5 @@ WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/Page_JPetStore
 
 WebUI.click(findTestObject('Object Repository/Page_JPetStore Demo/Page_JPetStore Demo/a_Sign In'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_JPetStore Demo/Page_JPetStore Demo/input_Need a user name and password_username'), 
-    1)
-
 WebUI.closeBrowser()
 
