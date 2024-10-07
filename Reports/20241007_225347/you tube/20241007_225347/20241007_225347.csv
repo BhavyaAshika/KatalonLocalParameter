@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+you tube,Edge Chromium 129,,,07-10-2024 22:53:59,07-10-2024 22:54:25,26.089s,PASSED
+,,,,,,,
+Test Cases/you tube,Edge Chromium 129,,,07-10-2024 22:53:59,07-10-2024 22:54:25,25.793s,PASSED
+"openBrowser("""")",Edge Chromium 129,,,07-10-2024 22:54:00,07-10-2024 22:54:04,4.526s,PASSED
+"navigateToUrl(""https://www.youtube.com/"")",Edge Chromium 129,,,07-10-2024 22:54:04,07-10-2024 22:54:08,4.098s,PASSED
+"setText(findTestObject(""Object Repository/you tube/Page_YouTube/input_Skip navigation_search_query""), ""devara trailer telugu"")",Edge Chromium 129,,,07-10-2024 22:54:08,07-10-2024 22:54:11,2.348s,PASSED
+"click(findTestObject(""Object Repository/Page_YouTube/div""))",Edge Chromium 129,,,07-10-2024 22:54:11,07-10-2024 22:54:11,0.623s,PASSED
+"click(findTestObject(""Object Repository/Page_devara trailer telugu - YouTube/a_Devara Release Trailer (Telugu)  NTR  Sai_20a690""))",Edge Chromium 129,,,07-10-2024 22:54:11,07-10-2024 22:54:14,2.932s,PASSED
+delay(10),Edge Chromium 129,,,07-10-2024 22:54:14,07-10-2024 22:54:24,10.060s,PASSED
+"click(findTestObject(""Object Repository/Page_Devara Release Trailer (Telugu)  NTR  _7131e8/button_An error occurred while retrieving s_c218eb""))",Edge Chromium 129,,,07-10-2024 22:54:24,07-10-2024 22:54:25,0.323s,PASSED
+closeBrowser(),Edge Chromium 129,,,07-10-2024 22:54:25,07-10-2024 22:54:25,0.459s,PASSED

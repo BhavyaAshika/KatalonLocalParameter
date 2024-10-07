@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>sub_Copyright www.mybatis.org</name>
+   <tag></tag>
+   <elementGuidId>e9bc59a8-f459-49dd-87b8-c77ebabef3c7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Content']/p[2]/sub</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>sub</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Copyright www.mybatis.org&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>sub</value>
+      <webElementGuid>0335dd64-c389-44c8-98f8-5d2145fa665f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Copyright www.mybatis.org </value>
+      <webElementGuid>4bf33811-adda-4acb-a03b-c99546f3cfc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Content&quot;)/p[2]/sub[1]</value>
+      <webElementGuid>c42dfeb6-7f48-4a5c-86a5-d2215fecb046</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Content']/p[2]/sub</value>
+      <webElementGuid>45eadf7b-f7e1-4bf7-a124-7b7527d8e610</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enter the Store'])[1]/following::sub[1]</value>
+      <webElementGuid>c5df884e-79dd-4420-9d09-2b6807910633</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Welcome to JPetStore 6'])[1]/following::sub[1]</value>
+      <webElementGuid>97fec1b3-61e7-43e8-9fa4-996967e1b1a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Copyright www.mybatis.org']/parent::*</value>
+      <webElementGuid>5eab418d-e1ad-4d65-9e63-77625df24a47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//sub</value>
+      <webElementGuid>7b189bdc-7d8a-4364-b779-2e76481a8827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//sub[(text() = 'Copyright www.mybatis.org ' or . = 'Copyright www.mybatis.org ')]</value>
+      <webElementGuid>60f91011-e8ea-4a5e-932c-30aac58e34a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
